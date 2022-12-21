@@ -58,4 +58,11 @@ we use VS code with Python, java
 
 ---
 ## 공유 
-[python code Trending](https://github.com/trending/python?since=weekly&spoken_language_code=)
+- [python code Trending](https://github.com/trending/python?since=weekly&spoken_language_code=)
+- [C#](https://gist.github.com/yash-perennial/7c9523dab4f7f5d794996c21dfff5f56)
+- [sonarqube_youtube](https://www.youtube.com/results?search_query=dotnet+sonarqube)
+- [git branch 청소](https://stackoverflow.com/questions/13064613/how-to-prune-local-tracking-branches-that-do-not-exist-on-remote-anymore/17029936#17029936)
+- [강의자료](https://bit.ly/cleancode2022)
+- [워크시트](https://bit.ly/2022cleancode)
+- [리팩토링 자료](https://refactoring.guru/refactoring/smells)
+- [리팩토링 종류](https://refactoring.com/catalog/)
