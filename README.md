@@ -57,5 +57,5 @@ we use VS code with Python, java
 - python scripts
 
 ---
-python code Trending (https://github.com/trending/python?since=weekly&spoken_language_code=)
+[python code Trending](https://github.com/trending/python?since=weekly&spoken_language_code=)
 - https://github.com/trending/python?since=weekly&spoken_language_code=
