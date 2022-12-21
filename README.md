@@ -47,11 +47,11 @@ Enjoy coding!
 
 # DS Clean Code by. Fast Campus (2022.12.19~21)
 we use VS code with Python, java 
-## Chat (./java/chat)
+## Chat 
 - [ ] Sonarlint 
 - [ ] SonarQube 
 - [ ] Sonar-scanner
-## my-app (./java/my_app)
+## my-app 
 - java scripts
 ## solid 
 - python scripts
